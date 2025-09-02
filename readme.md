@@ -66,7 +66,7 @@ python_rest_api_project/
 ### 1️⃣ Clone the project
 
 ```bash
-git clone https://github.com/yourusername/python_rest_api_project.git
+git clone https://github.com/debapiya2003/python_rest_api_project.git
 cd python_rest_api_project
 ```
 
@@ -151,5 +151,6 @@ By completing this project, you will understand:
 ## 📜 License
 
 This project is open-source and free to use for learning purposes.
+
 
 ---
